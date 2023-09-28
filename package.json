@@ -4,10 +4,11 @@
   "description": " Ndifreke Etukudo",
   "main": "index.js",
   "scripts": {
+    "start":"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": " nodemon index.js",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.2",
