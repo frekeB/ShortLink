@@ -1,14 +1,14 @@
 {
   "name": "url-shortener",
   "version": "1.0.0",
-  "description": " Ndifreke Etukudo",
+  "description": " Shortlink is a URL shortener.",
   "main": "index.js",
   "scripts": {
-    "start":"",
+    "start":"nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": " nodemon index.js",
+  "author": "Ndifreke Etukudo ",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.2",

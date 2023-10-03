@@ -14,3 +14,5 @@ app.get('/',(req,res)=>{
 });
 
 app.use('/',routes);
+
+module.exports = app; 
